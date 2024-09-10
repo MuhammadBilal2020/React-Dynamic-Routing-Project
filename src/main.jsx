@@ -5,9 +5,13 @@ import './index.css'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 
 
-import Home from './pages/home.jsx'
+// import Home from './pages/home.jsx'
 import SingleProduct from './pages/singleProduct.jsx'
-import Contact from './pages/contact.jsx'
+// import Contact from './pages/contact.jsx'
+import Home from './pages/Home.jsx'
+import Contact from './pages/Contact.jsx'
+
+
 
 let router = createBrowserRouter([
     {
