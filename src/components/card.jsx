@@ -1,6 +1,5 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
-import SingleProduct from '../pages/singleProduct'
 
 function Card({image, title, price, desc, items}) {
     const navigate = useNavigate();
