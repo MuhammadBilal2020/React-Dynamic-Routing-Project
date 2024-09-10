@@ -9,7 +9,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import SingleProduct from './pages/SingleProduct.jsx'
 // import Contact from './pages/contact.jsx'
 import Home from './pages/Home.jsx'
-import Contact from './pages/Contact.jsx'
+import Contact from './pages/contact.jsx'
 
 
 
